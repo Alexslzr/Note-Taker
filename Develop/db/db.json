@@ -6,11 +6,31 @@
     {
         "title": "ola k ase",
         "text": "nota",
-        "note_id": "9d16"
+        "id": "9d16"
     },
     {
         "title": "porque no veo la nota",
         "text": "yepa",
-        "note_id": "ba50"
+        "id": "ba50"
+    },
+    {
+        "title": "yujuuu",
+        "text": "ya funcionan las notas",
+        "id": "afad"
+    },
+    {
+        "title": "porque ",
+        "text": "esto no funciona",
+        "id": "bbaa"
+    },
+    {
+        "title": "quisiera ",
+        "text": "saberrrr",
+        "id": "f4f7"
+    },
+    {
+        "title": "ola k ase",
+        "text": "soi io rossel\n",
+        "id": "fccd"
     }
 ]

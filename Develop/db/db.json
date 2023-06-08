@@ -1,7 +1,17 @@
 [
     {
-        "title": "3",
-        "text": "3",
-        "id": "3058"
+        "title": "New Test Note",
+        "text": "test note",
+        "id": "3fb2"
+    },
+    {
+        "title": "New Note",
+        "text": "123",
+        "id": "7aed"
+    },
+    {
+        "title": "Hello",
+        "text": "hi\n",
+        "id": "b001"
     }
 ]

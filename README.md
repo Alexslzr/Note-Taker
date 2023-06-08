@@ -50,7 +50,7 @@ The following images show the web application's appearance and functionality:
 Github: <br>
 https://github.com/Alexslzr/
 
-Repo
+Repo: <br>
 https://github.com/Alexslzr/Note-Taker
 
 App: <br>

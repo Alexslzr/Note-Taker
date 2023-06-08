@@ -48,6 +48,10 @@ The following images show the web application's appearance and functionality:
 ## Links
 
 Github: <br>
-https://github.com/Alexslzr
+https://github.com/Alexslzr/
+
+Repo
+https://github.com/Alexslzr/Note-Taker
 
 App: <br>
+https://enigmatic-fjord-82076.herokuapp.com/notes

@@ -4,7 +4,7 @@
 
 ## Description
 
-This aplication is a Note taker you can create , update and delete notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+This aplication is a Note taker you can create , update and delete notes. This application uses an Express.js back end and Save and retrieve note data from a JSON file.
 
 ## User Story
 
